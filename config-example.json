@@ -1,0 +1,7 @@
+{
+    "client": {
+        "name": "BOT-NAME",
+        "token": "BOT-TOKEN",
+        "prefix": "BOT-PREFIX"
+    }
+}
